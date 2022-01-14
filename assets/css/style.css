@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
+
 }
 article{
     display: flex;
+    margin: 0 auto;
+    padding: 0;
 }
